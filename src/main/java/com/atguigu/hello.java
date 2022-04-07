@@ -22,5 +22,7 @@ public class hello {
         System.out.println("master upupup");
         System.out.println("master upupup");
         System.out.println("master upupup");
+        System.out.println("master pull");
+
     }
 }
