@@ -25,5 +25,6 @@ public class hello {
         System.out.println("master pull");
         System.out.println("push");
         System.out.println("pushhhh");
+        System.out.println("github update");
     }
 }
